@@ -72,11 +72,13 @@ span {
 /* HERO */
 .hero-title {
   color: var(--background-color);
-  background-color: var(--secondary-text-color);
   font-weight: 600;
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
+}
+.title {
+  background-color: var(--secondary-text-color);
 }
 
 /* Order Service button*/
